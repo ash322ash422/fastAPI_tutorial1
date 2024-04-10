@@ -1,7 +1,9 @@
 # FastAPI tutorial
  Basic tutorial
 
-1) PS C:\Users\hi\Desktop\projects\python_projects\fastAPI_tutorial1> pip install fastapi
+1) Use "pip install fastapi" or "python -m pip install fastapi"
+
+ PS C:\Users\hi\Desktop\projects\python_projects\fastAPI_tutorial1> pip install fastapi
 
 2) Now install the server package:
 
